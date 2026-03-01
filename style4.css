@@ -1,0 +1,30 @@
+body{
+    background-color: slategray;
+}
+h1{
+    font-size: 40px;
+    color: brown;
+    border-style: dashed;
+    border-width: 5px;
+    border-color: green;
+    border-radius: 150px;
+}
+#p1{
+    color: yellow;
+    font-size: 20px;
+}
+table{
+    margin : auto;
+    background-color: lightgreen;
+    border: 2px black;
+    border-collapse: collapse;
+}
+.row1 th,
+.row1 td,
+.row2 th,
+.row2 td{
+    border: 4px black;
+    border-style: double;
+    text-align: center;
+    padding: 8px;
+}

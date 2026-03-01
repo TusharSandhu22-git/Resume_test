@@ -1,0 +1,18 @@
+@font-face {
+    src: url(fonts/monostro.ttf);
+    font-family: monostro;
+}
+
+body{
+    background-color: slateblue;
+}
+h1{
+    font-family: monostro, Geneva, Tahoma, sans-serif;
+}
+#pre1{
+    color: orange;
+    font-family: monostro, 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 1em;
+    font-weight: bold;
+    font-style: italic;
+}

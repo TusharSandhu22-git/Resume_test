@@ -1,0 +1,30 @@
+body{
+    background-image: url(back.png);
+    background-color: slategray;
+
+}
+#box1{
+    border: 2px solid ;
+    background-color: aqua;
+    width: 100px;
+    height: 100px;
+    position: relative;
+    top: 10px;
+    left:10px;
+}
+#box2{
+    background-color: red;
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    top: 25px;
+    left: 25px;
+}
+#box3{
+    margin-top: 50px;
+    border:2px black solid;
+    width: 200px;
+    height: 200px;
+    background-color: blueviolet;
+    position: fixed;
+}
